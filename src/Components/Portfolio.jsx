@@ -43,10 +43,10 @@ const projectList = [
     url: "https://github.com/abhayr10/House_Price_Prediction.com",
   },
   {
-    title: "My Resume Site",
-    description: "In Progress!!!",
+    title: "Data Cleaning and EDA - layoffs.csv",
+    description: "Performed data cleaning and EDA on the dataset that contained total employees that were layed off by top companies",
     //"Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "",
+    url: "https://github.com/abhayr10/MySQL-Project-layoffs.csv-",
   },
   {
     title: "Email Spam Filtering",

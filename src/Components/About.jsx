@@ -32,10 +32,10 @@ const description =
  */
 const skillsList = [
   "Python, Java, C/C++, MySQL",
-  "Blockchain(Beginner)",
-  "Data Analytics (Beginner)",
+  "Blockchain",
+  "Data Analytics/ Data Science",
   "Web Design",
-  "AI image generation",
+  "Artificial Intelligence / Machine Learning",
   "Explorer👨🏼‍💻",
 ];
 
